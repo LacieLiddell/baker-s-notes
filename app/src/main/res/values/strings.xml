@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Baker Notes</string>
+    <string name="show">Просмотреть всё</string>
+    <string name="add">Добавить</string>
+    <string name="favorite">Избранное</string>
+    <string name="ingredients">Ингредиенты</string>
+    <string name="program">Программа</string>
+    <string name="change">Изменить</string>
+    <string name="save">Сохранить</string>
+    <string name="empty">Введите значения</string>
+    <string name="dbError">Database unavailable</string>
+    <string name="name">Название</string>
+    <string name="delete">Удалить</string>
+    <string name="sure">Уверены, что хотите удалить этот рецепт?</string>
+    <string name="cancel">Отмена</string>
+    <string name="cooking">Способ приготовления:</string>
+    <string name="successDelete">Рецепт удалён</string>
+    <string-array name="mainMenu">
+        <item>Просмотреть рецепты</item>
+        <item>Добавить рецепт</item>
+        <item>Загрузить рецепт</item>
+    </string-array>
+</resources>
